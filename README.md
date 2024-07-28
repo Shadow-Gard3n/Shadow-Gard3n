@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Hi there, I'm Aryan Gahlot! 👋
 
 ## About Me ℹ️
 
