@@ -15,7 +15,7 @@ Hey there! I'm Aryan Gahlot, a passionate Programmer with a keen interest in Gen
 - Git & GitHub 🌱
 - VS Code 🖥️
 - AI Prompting ✨
-- Scratch
+- Scratch(https://scratch.mit.edu/users/Shadow-gard3n/)
 
 ## 📜 Qualifications
 
