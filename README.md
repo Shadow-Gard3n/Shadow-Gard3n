@@ -8,7 +8,7 @@ Hey there! I'm Aryan Gahlot, a passionate Programmer with a keen interest in Gen
 
 ### Programming Languages:
 - Python 🐍
-- JavaScript 💻
+- HTML
 - C lang ©
 
 ### Tools & Technologies:
