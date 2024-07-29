@@ -15,7 +15,7 @@ Hey there! I'm Aryan Gahlot, a passionate Programmer with a keen interest in Gen
 - Git & GitHub 🌱
 - VS Code 🖥️
 - AI Prompting ✨
-- SQL 📊
+- Scratch
 
 ## 📜 Qualifications
 
