@@ -1,5 +1,4 @@
 
-Here's a cleaner, plain-text version that's easier to copy:
 
 ---
 
@@ -38,5 +37,5 @@ Don't be shy—drop me a message! I’m always excited to collaborate, share kno
 
 ---
 
-Feel free to copy this version! Let me know if you need any more adjustments.
+
 
