@@ -7,7 +7,7 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
 
 ## 🚀 My Toolbox
 
-### Languages I Speak (Code-wise):
+### Languages I Know :
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="30"/>
