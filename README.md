@@ -21,4 +21,34 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
 ### Tech & Tools I Love:
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30"/>
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-AI_Prompting-4285F4?style=flat&logo=google&logoColor=white" alt="AI Prompting" height="30"/>
+</p>
+
+### Competitive Programming:
+<p>
+  <img src="https://img.shields.io/badge/-LeetCode-FE7F00?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/> [LeetCode Profile](https://leetcode.com/u/Shadow-gard3n/)
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="30"/> [CodeChef Profile](https://www.codechef.com/users/shadow_gard3n/)
+</p>
+
+### Fun Playground:
+<p>
+  <img src="https://img.shields.io/badge/-Scratch-4D97FF?style=flat&logo=scratch&logoColor=white" alt="Scratch" height="30"/> [Check my profile](https://scratch.mit.edu/users/Shadow-gard3n/)
+</p>
+
+## 📜 What I've Been Up To
+
+- **HackClubber** since July 2024 - Learning, building, and sharing awesome projects with a global community of makers.
+
+## 📬 Let’s Connect!
+
+Got ideas, questions, or just want to chat? Here’s how you can reach me:
+- **Email:** aryangahlot194750@gmail.com
+
+## ❓ Curious About Something?
+
+Don't be shy—drop me a message! I’m always excited to collaborate, share knowledge, and connect with fellow tech enthusiasts.
+
