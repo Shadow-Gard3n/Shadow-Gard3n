@@ -31,15 +31,17 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
 ### Competitive Programming:
 <p>
   <img src="https://img.shields.io/badge/-LeetCode-FE7F00?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/> 
-  [LeetCode Profile](https://leetcode.com/u/Shadow-gard3n/)
+  <a href="https://leetcode.com/u/Shadow-gard3n/" target="_blank">LeetCode Profile</a>
+</p>
+<p>
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="30"/> 
-  [CodeChef Profile](https://www.codechef.com/users/shadow_gard3n/)
+  <a href="https://www.codechef.com/users/shadow_gard3n" target="_blank">CodeChef Profile</a>
 </p>
 
 ### Fun Playground:
 <p>
   <img src="https://img.shields.io/badge/-Scratch-4D97FF?style=flat&logo=scratch&logoColor=white" alt="Scratch" height="30"/> 
-  [Check my profile](https://scratch.mit.edu/users/Shadow-gard3n/)
+  <a href="https://scratch.mit.edu/users/Shadow-gard3n/" target="_blank">Check my profile</a>
 </p>
 
 ## 📜 What I've Been Up To
