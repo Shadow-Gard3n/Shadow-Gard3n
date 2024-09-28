@@ -4,7 +4,7 @@
 ## Who Am I? 🤔
 
 I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turning ideas into reality with code. Whether it's building something from scratch or tweaking an existing project, I'm all in for the challenge!
-[![Holopin badge](https://holopin.me/shadowgard3n)(https://holopin.io/@shadowgard3n)]
+[![Holopin badge](https://holopin.me/shadowgard3n)](https://holopin.io/@shadowgard3n)
 
 
 ## 🚀 My Toolbox
