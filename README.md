@@ -20,6 +20,15 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="30"/>
 </p>
 
+### Libraries & Frameworks I Work With :
+<p>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
+  <img src="https://img.shields.io/badge/-Tkinter-FFCC00?style=flat&logo=python&logoColor=white" alt="Tkinter" height="30"/>
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" height="30"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="30"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="30"/>
+</p>
+
 ### Tech & Tools I Love :
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
