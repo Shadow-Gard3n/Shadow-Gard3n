@@ -25,9 +25,8 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30"/>
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-AI_Prompting-4285F4?style=flat&logo=google&logoColor=white" alt="AI Prompting" height="30"/>
+  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="30"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="30"/>
 </p>
 
 ### Competitive Programming :
@@ -40,11 +39,6 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
   <a href="https://www.codechef.com/users/shadow_gard3n" target="_blank">CodeChef Profile</a>
 </p>
 
-### Fun Playground :
-<p>
-  <img src="https://img.shields.io/badge/-Scratch-4D97FF?style=flat&logo=scratch&logoColor=white" alt="Scratch" height="30"/> 
-  <a href="https://scratch.mit.edu/users/Shadow-gard3n/" target="_blank">Check my profile</a>
-</p>
 
 ## 📜 What I've Been Up To
 
