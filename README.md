@@ -57,12 +57,6 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
 
 ---
 
-## 📜 What I've Been Up To
-
-- **HackClubber** since July 2024 – Learning, building, and sharing awesome projects with a global community of makers.
-
----
-
 ## 📬 Let’s Connect!
 
 Got ideas, questions, or just want to chat? Here’s how you can reach me:
