@@ -43,6 +43,14 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
 </p>
 
+### 🚀 Hosting & BaaS
+<p>
+  <img src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" alt="Railway" height="30"/>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" height="30"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="30"/>
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="30"/>
+</p>
+
 ---
 
 ## ⚔️ Competitive Programming
