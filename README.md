@@ -55,13 +55,17 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
 
 ## ⚔️ Competitive Programming
 <p>
-  <img src="https://img.shields.io/badge/-LeetCode-FE7F00?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
-  <a href="https://leetcode.com/u/Shadow-gard3n/" target="_blank">LeetCode Profile</a>
+  <a href="https://leetcode.com/u/Shadow-gard3n/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FE7F00?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
+  </a>
+  <a href="https://www.codechef.com/users/shadow_gard3n" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" height="30"/>
+  </a>
+  <a href="https://codeforces.com/profile/Aryan_Gahlot" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" height="30"/>
+  </a>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" height="30"/>
-  <a href="https://www.codechef.com/users/shadow_gard3n" target="_blank">CodeChef Profile</a>
-</p>
+
 
 ---
 
