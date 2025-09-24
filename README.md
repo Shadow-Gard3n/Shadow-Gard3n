@@ -1,8 +1,6 @@
-# Hi there, I'm Aryan Gahlot! 👋
+# Hi, I'm Aryan Gahlot! 
 
-
-
-I'm a passionate programmer and problem-solver dedicated to building efficient and scalable applications. I thrive on turning complex ideas into reality through code and enjoy tackling challenges, whether it's developing a project from scratch or enhancing an existing one.
+I love building full-stack projects and working on ML.
 
 ---
 
@@ -54,6 +52,47 @@ Here's a list of the technologies I work with.
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" height="30"/>
   <img src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" alt="Railway" height="30"/>
 </p>
+
+---
+
+## 🚀 My Projects
+
+Here are a couple of projects I've worked on:
+
+### 💬 Chat-WebApp
+
+A real-time chat web application with a friend system, online status, and message history.
+
+* **Key Features:**
+    * JWT-based authentication with cookie sessions.
+    * Friend request system (Send / Accept / Reject).
+    * User search with live online/offline status.
+    * Real-time chat with Socket.IO.
+    * Chat message history stored in MongoDB.
+* **Tech Stack:**
+    * **Frontend:** React, React Router, Tailwind CSS, Socket.IO Client
+    * **Backend:** Node.js, Express, Socket.IO, MongoDB, Mongoose
+    * **Deployment:** Netlify (Frontend), Render (Backend)
+* **How It Works:**
+    * The application uses a **MERN stack** (MongoDB, Express, React, Node.js) to provide a seamless real-time chat experience. User authentication is handled via **JWT**, with tokens stored in cookies for persistent sessions. The friend system allows users to search for others, send friend requests, and manage their connections. Real-time communication is powered by **Socket.IO**, which enables instant messaging and live online status updates. Chat history is saved in **MongoDB**, allowing users to view past conversations.
+
+### 📚 NoteDrop
+
+A web application that allows students to upload, share, and discover educational notes across various subjects.
+
+* **Key Features:**
+    * User authentication (sign up/login) with Spring Security.
+    * Upload and share notes with metadata (subject, topic, description).
+    * Search and browse notes by subject or keywords.
+    * User profiles with published notes.
+    * Follow other users and save favorite notes.
+* **Tech Stack:**
+    * **Backend:** Spring Boot (Java), Spring Security
+    * **Frontend:** HTML5, CSS3, JavaScript, Thymeleaf
+    * **Database & Storage:** MySQL, Supabase
+    * **Deployment:** Render
+* **How It Works:**
+    * NoteDrop is built on a classic **Spring Boot** architecture. The backend handles user authentication using **Spring Security**, manages relational data in a **MySQL** database, and serves dynamic HTML pages with **Thymeleaf**. For file storage, it integrates with **Supabase**, which provides a scalable and reliable solution for storing user-uploaded notes. The frontend is a combination of server-rendered HTML and client-side JavaScript, which allows for a responsive and interactive user experience.
 
 ---
 
