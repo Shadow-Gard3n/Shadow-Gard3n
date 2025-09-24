@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Gahlot! 
+# Hi there, I'm Aryan Gahlot! 
 
 I love building full-stack projects and working on ML.
 
@@ -16,14 +16,20 @@ Here's a list of the technologies I work with.
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="30"/>
 </p>
 
-### Frontend & Backend Frameworks
+### Backend Development
 <p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="30"/>
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" height="30"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="30"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="30"/>
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="30"/>
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -43,13 +49,13 @@ Here's a list of the technologies I work with.
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="30"/>
 </p>
 
-### Tools & Hosting
+### Dev Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="30"/>
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="30"/>
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" height="30"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" height="30"/>
   <img src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" alt="Railway" height="30"/>
 </p>
 
@@ -70,6 +76,8 @@ A real-time chat application with a friend system, online status, and message hi
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" height="30"/>
   <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" height="30"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" height="30"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" height="30"/>
 </p>
 
 ### 📚 NoteDrop
