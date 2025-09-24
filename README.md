@@ -13,7 +13,7 @@ Here's a list of the technologies I work with.
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="30"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" height="30"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="30"/>
 </p>
 
 ### Frontend & Backend Frameworks
@@ -61,38 +61,29 @@ Here are a couple of projects I've worked on:
 
 ### 💬 Chat-WebApp
 
-A real-time chat web application with a friend system, online status, and message history.
+A real-time chat application with a friend system, online status, and message history.
 
-* **Key Features:**
-    * JWT-based authentication with cookie sessions.
-    * Friend request system (Send / Accept / Reject).
-    * User search with live online/offline status.
-    * Real-time chat with Socket.IO.
-    * Chat message history stored in MongoDB.
-* **Tech Stack:**
-    * **Frontend:** React, React Router, Tailwind CSS, Socket.IO Client
-    * **Backend:** Node.js, Express, Socket.IO, MongoDB, Mongoose
-    * **Deployment:** Netlify (Frontend), Render (Backend)
-* **How It Works:**
-    * The application uses a **MERN stack** (MongoDB, Express, React, Node.js) to provide a seamless real-time chat experience. User authentication is handled via **JWT**, with tokens stored in cookies for persistent sessions. The friend system allows users to search for others, send friend requests, and manage their connections. Real-time communication is powered by **Socket.IO**, which enables instant messaging and live online status updates. Chat history is saved in **MongoDB**, allowing users to view past conversations.
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" height="30"/>
+  <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" height="30"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+</p>
 
 ### 📚 NoteDrop
 
-A web application that allows students to upload, share, and discover educational notes across various subjects.
+A web platform for students to upload, share, and discover educational notes.
 
-* **Key Features:**
-    * User authentication (sign up/login) with Spring Security.
-    * Upload and share notes with metadata (subject, topic, description).
-    * Search and browse notes by subject or keywords.
-    * User profiles with published notes.
-    * Follow other users and save favorite notes.
-* **Tech Stack:**
-    * **Backend:** Spring Boot (Java), Spring Security
-    * **Frontend:** HTML5, CSS3, JavaScript, Thymeleaf
-    * **Database & Storage:** MySQL, Supabase
-    * **Deployment:** Render
-* **How It Works:**
-    * NoteDrop is built on a classic **Spring Boot** architecture. The backend handles user authentication using **Spring Security**, manages relational data in a **MySQL** database, and serves dynamic HTML pages with **Thymeleaf**. For file storage, it integrates with **Supabase**, which provides a scalable and reliable solution for storing user-uploaded notes. The frontend is a combination of server-rendered HTML and client-side JavaScript, which allows for a responsive and interactive user experience.
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="30"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+  <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="30"/>
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="30"/>
+</p>
 
 ---
 
