@@ -1,59 +1,66 @@
-# Hey there, I'm Aryan Gahlot! 👋
+# Hi there, I'm Aryan Gahlot! 👋
 
-## Who Am I? 🤔
 
-I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turning ideas into reality with code. Whether it's building something from scratch or tweaking an existing project, I'm all in for the challenge!
+
+I'm a passionate programmer and problem-solver dedicated to building efficient and scalable applications. I thrive on turning complex ideas into reality through code and enjoy tackling challenges, whether it's developing a project from scratch or enhancing an existing one.
 
 ---
 
-## 🚀 My Toolbox
+## 🛠️ My Tech Stack
 
-### 🧠 Languages I Know
+Here's a list of the technologies I work with.
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="30"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" height="30"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" height="30"/>
 </p>
 
-### ⚙️ Libraries & Frameworks I Work With
+### Frontend & Backend Frameworks
 <p>
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" height="30"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="30"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="30"/>
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" height="30"/>
-  <img src="https://img.shields.io/badge/-Tkinter-FFCC00?style=flat-square&logo=python&logoColor=black" alt="Tkinter" height="30"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="30"/>
 </p>
 
-### 🛠️ Backend & Dev Tools
+### 📊 Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="30"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="30"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="30"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="30"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-89184B?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" height="30"/>
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" height="30"/>
+</p>
+
+### Databases & BaaS
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="30"/>
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="30"/>
+</p>
+
+### Tools & Hosting
+<p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="30"/>
-</p>
-
-### 💾 Databases
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
-  <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" height="30"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
-</p>
-
-### 🚀 Hosting & BaaS
-<p>
-  <img src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" alt="Railway" height="30"/>
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="30"/>
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" height="30"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="30"/>
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="30"/>
+  <img src="https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white" alt="Railway" height="30"/>
 </p>
 
 ---
 
 ## ⚔️ Competitive Programming
+
+You can find me practicing my problem-solving skills on these platforms:
+
 <p>
   <a href="https://leetcode.com/u/Shadow-gard3n/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FE7F00?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
@@ -66,16 +73,10 @@ I'm Aryan, a problem-solving enthusiast and passionate programmer who loves turn
   </a>
 </p>
 
-
 ---
 
-## 📬 Let’s Connect!
+## 📫 Get in Touch
 
-Got ideas, questions, or just want to chat? Here’s how you can reach me:
-- **Email:** aryangahlot194750@gmail.com
+I'm always open to collaborating on projects, sharing knowledge, and connecting with fellow tech enthusiasts. Feel free to reach out!
 
----
-
-## ❓ Curious About Something?
-
-Don't be shy—drop me a message! I’m always excited to collaborate, share knowledge, and connect with fellow tech enthusiasts.
+- **Email:** **aryangahlot194750@gmail.com**
