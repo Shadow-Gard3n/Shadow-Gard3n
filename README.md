@@ -66,9 +66,29 @@ Here's a list of the technologies I work with.
 
 Here are a couple of projects I've worked on:
 
+### 🩺 MedScope – AI-Powered Medical Information API
+
+A FastAPI-based backend service providing ML-powered drug risk prediction, medicine alternatives, and an intelligent medical chatbot powered by Google Gemini AI.
+
+🔗 **Live Demo:** https://shadowgard3n-medscope-backend.hf.space/login
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="40"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="40"/>
+  <img src="https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI" height="40"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="40"/>
+  <img src="https://img.shields.io/badge/-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Spaces" height="40"/>
+</p>
+
+
 ### 💬 Chat-WebApp
 
 A real-time chat application with a friend system, online status, and message history.
+
+🔗 **Live Demo:** https://echoconverse.netlify.app/login
 
 **Tech Stack:**
 <p>
@@ -85,14 +105,17 @@ A real-time chat application with a friend system, online status, and message hi
 
 A web platform for students to upload, share, and discover educational notes.
 
+🔗 **Live Demo:** https://notedrop-wlm0.onrender.com
+
 **Tech Stack:**
 <p>
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" height="40"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/>
   <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="40"/>
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="40"/>
 </p>
+
 
 ---
 
